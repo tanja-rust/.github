@@ -13,7 +13,7 @@ I’ve been working professionally with **Rust for over 2 years**, building back
 
 ### 📌 Projects in this organization
 Here you'll find:
-- 🔹 **Property Price Tracker** – a Rust backend service for tracking real estate listings and price snapshots. [See README](./property-price-tracker)
+- 🔹 **[Property Price Tracker](https://github.com/tanja-rust/property-price-tracker)** – a Rust backend service for tracking real estate listings and price snapshots.
 - 🔹 Small focused tools showcasing Rust patterns  
 - 🔹 Systems programming exercises  
 - 🔹 Libraries and utilities I've built while learning or improving Rust  
