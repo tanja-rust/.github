@@ -13,11 +13,10 @@ I’ve been working professionally with **Rust for over 2 years**, building back
 
 ### 📌 Projects in this organization
 Here you'll find:
+- 🔹 **Property Price Tracker** – a Rust backend service demonstrating SeaORM, Axum, async patterns, and real-world inspired API design
 - 🔹 Small focused tools showcasing Rust patterns  
-- 🔹 Backend / API examples  
 - 🔹 Systems programming exercises  
 - 🔹 Libraries and utilities I've built while learning or improving Rust  
-- 🔹 Real-world inspired projects relevant for interviews  
 
 More projects are coming as I expand my Rust portfolio.
 
